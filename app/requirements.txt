@@ -29,7 +29,7 @@ pyasn1-modules==0.4.2
 pylint==4.0.5
 python-magic==0.4.27
 pytz==2026.1.post1
-requests==2.32.5
+requests==2.33.0
 requests-oauthlib==2.0.0
 rsa==4.9.1
 simplejson==3.20.2
