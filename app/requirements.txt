@@ -35,5 +35,5 @@ rsa==4.9.1
 simplejson==3.20.2
 six==1.17.0
 uritemplate==4.2.0
-urllib3==2.6.3
+urllib3==2.7.0
 wrapt==2.1.2
